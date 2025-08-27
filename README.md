@@ -1,4 +1,4 @@
-## TensorFlow Hyperparameter Tuning
+# 🚀 TensorFlow Hyperparameter Tuning Lab
 
 This repository contains a **Jupyter Notebook** that demonstrates **hyperparameter tuning** in **TensorFlow and Keras** using **Keras Tuner**.  
 It helps you systematically optimize deep learning models for better accuracy, faster convergence, and efficient architectures.
@@ -28,11 +28,18 @@ To adapt to your own dataset:
 
 ---
 
-## 🛠 Requirements
-- Python 3.x
-- TensorFlow
-- Keras
+## 🛠️ Requirements
+Ensure you have the following installed:
+- Python 3.8 or later  
+- [TensorFlow](https://www.tensorflow.org/)  
+- [Keras Tuner](https://keras.io/keras_tuner/)  
+- NumPy  
 - Matplotlib
-- NumPy
 
+## 📂 Contents
+- **`Hypertuning_tuning_TensorFlow.ipynb`**  
+  A complete notebook showcasing:
+  - Model building with TensorFlow/Keras
+  - Hyperparameter tuning using Keras Tuner
+  - Performance visualization with metrics and plots
 
