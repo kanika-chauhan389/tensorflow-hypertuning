@@ -39,6 +39,8 @@ To adapt to your own dataset:
 ## Results
 
 ### Classification Report
+
+
               precision    recall  f1-score   support
 
     airplane       0.69      0.79      0.74      1000
