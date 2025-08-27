@@ -1,4 +1,4 @@
-**TensorFlow Hyperparameter Tuning**
+## TensorFlow Hyperparameter Tuning
 
 This repository contains a **Jupyter Notebook** that demonstrates **hyperparameter tuning** in **TensorFlow and Keras** using **Keras Tuner**.  
 It helps you systematically optimize deep learning models for better accuracy, faster convergence, and efficient architectures.
